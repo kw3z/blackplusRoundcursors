@@ -22,7 +22,7 @@ A clean, minimal Windows cursor pack featuring rounded black plus signs. Include
 3. Right-click `installer.inf` → **Install**.
 4. Open Settings.
 5. Navigate to **Bluetooth & devices → Mouse → Additional mouse settings**.
-6. Navigate to the **Cursors Tab** and select the scheme **Black Plus Round**.
+6. Navigate to the **Pointers Tab** and select the scheme **Black Plus Round**.
 
 ---
 
