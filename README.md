@@ -27,7 +27,7 @@ A clean, minimal Windows cursor pack featuring rounded black plus signs. Include
 ---
 
 ## 📷 Preview
-(**Click here to view images & visit RW Designer Cursor Page**)[https://www.rw-designer.com/cursor-set/black-plus-round]
+[**Click here to view images & visit RW Designer Cursor Page**](https://www.rw-designer.com/cursor-set/black-plus-round)
 
 ---
 
@@ -37,6 +37,6 @@ A clean, minimal Windows cursor pack featuring rounded black plus signs. Include
 
 ---
 
-## 📜 License
-This cursor pack is licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](LICENSE.txt).
+## 📜 [License](LICENSE)
+This cursor pack is licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.en).
 You are free to download, remix, and share it, but please give proper credit to **Quesz**.
