@@ -1,7 +1,7 @@
 # 🖱️ Black Pluses Round Cursors
 
 ![Platform](https://img.shields.io/badge/platform-Windows-blue?logo=windows)
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE.txt)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE)
 ![Status](https://img.shields.io/badge/status-active-success)
 
 A clean, minimal Windows cursor pack featuring rounded black plus signs. Includes an easy installer (.inf) and full scheme support.
